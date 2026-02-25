@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Merhaba, Ben Berkay Çelik! 👋</h1>
+<h3 align="center">Decathlon'da Kaptan 🏕️ | Geleceğin Full-Stack Geliştiricisi 💻</h3>
 
-<!--
-**berkaycelik1/berkaycelik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cberkay959@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://roadmap.sh" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap.sh-Full_Stack_Journey-blue?style=for-the-badge" alt="Roadmap" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Hikayem ve Hedeflerim
+
+* 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Öncesinde lisede aldığım **Ağ İşletmenliği (Cisco/Network)** eğitimi sayesinde internetin ve sunucuların arka planına temelden hakimim.
+* 💼 Şu an **Decathlon'da Kaptan (Sports Leader)** olarak çalışıyorum. Sahadaki ekip yönetimi, kriz çözme ve liderlik becerilerimi yazılım projelerimdeki takım çalışmasına aktarıyorum.
+* 🌱 **Aktif Öğrenme Sürecim:** BTK Akademi ve Turkcell Geleceği Yazanlar'dan eğitimlerimi tamamlayarak Frontend temellerimi attım. Şu an **HTML, CSS, JavaScript** ve **Node.js** üzerine yoğunlaşıyor, roadmap.sh üzerinden ilerlememi kaydediyorum.
+* 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
+
+### 🛠️ Teknoloji Yığınım (Tech Stack)
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & Araçlar:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Network](https://img.shields.io/badge/Cisco_Network_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true" alt="Berkay'ın GitHub İstatistikleri" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+</p>
