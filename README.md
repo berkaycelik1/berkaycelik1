@@ -8,9 +8,9 @@
   <a href="mailto:cberkay959@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-    <a href="https://roadmap.sh/full-stack" target="_blank">
-    <img src="https://img.shields.io/badge/Roadmap.sh-Full_Stack_Journey-blue?style=for-the-badge" alt="Roadmap" />
-  </a>
+    <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
+  <img src="https://img.shields.io/badge/Roadmap.sh-My_Progress-blue?style=for-the-badge" alt="Roadmap" />
+</a>
 </p>
 
 ---
