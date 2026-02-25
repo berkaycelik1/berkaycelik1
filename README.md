@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Berkay Çelik! 👋</h1>
-<h3 align="center">Geleceğin Full-Stack Geliştiricisi 💻</h3>
+<h3 align="center">Full-Stack Yolculuğum 💻</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
@@ -29,8 +29,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Araçlar:**
 
 **Backend & Araçlar:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
