@@ -18,7 +18,7 @@
 ### 👨‍💻 Hikayem ve Hedeflerim
 
 * 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Öncesinde lisede aldığım **Ağ İşletmenliği (Cisco/Network)** eğitimi sayesinde internetin ve sunucuların arka planına temelden hakimim.
-* 💼 Şu an **Decathlon'da Kaptan (Sports Leader)** olarak çalışıyorum. Sahadaki ekip yönetimi, kriz çözme ve liderlik becerilerimi yazılım projelerimdeki takım çalışmasına aktarıyorum.
+* 💼 Şu an **Decathlon'da Kaptan ve Sports Lideri ** olarak çalışıyorum. Sahadaki ekip yönetimi, kriz çözme ve liderlik becerilerimi yazılım projelerimdeki takım çalışmasına aktarıyorum.
 * 🌱 **Aktif Öğrenme Sürecim:** BTK Akademi ve Turkcell Geleceği Yazanlar'dan eğitimlerimi tamamlayarak Frontend temellerimi attım. Şu an **HTML, CSS, JavaScript** ve **Node.js** üzerine yoğunlaşıyor, roadmap.sh üzerinden ilerlememi kaydediyorum.
 * 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
 
@@ -41,7 +41,9 @@
 
 ### 📊 GitHub İstatistiklerim
 
+### 📊 GitHub İstatistiklerim
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Berkay'ın İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Berkay'ın İstatistikleri" width="48%" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
 </p>
