@@ -8,18 +8,18 @@
   <a href="mailto:cberkay959@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-    <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
-  <img src="https://img.shields.io/badge/Roadmap.sh-My_Progress-blue?style=for-the-badge" alt="Roadmap" />
-</a>
+  <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap.sh-İlerlemem-blue?style=for-the-badge" alt="Roadmap" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 Hikayem ve Hedeflerim
 
-* 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Öncesinde lisede aldığım **Ağ İşletmenliği (Cisco/Network)** eğitimi sayesinde internetin ve sunucuların arka planına temelden hakimim.
-* 💼 Şu an Decathlon'da Kaptan ve Spor Lideri olarak çalışıyorum. Sahadaki ekip yönetimi, kriz çözme ve liderlik becerilerimi yazılım projelerimdeki takım çalışmasına aktarıyorum.
-* 🌱 **Aktif Öğrenme Sürecim:** BTK Akademi ve Turkcell Geleceği Yazanlar'dan eğitimlerimi tamamlayarak Frontend temellerimi attım. Şu an **HTML, CSS, JavaScript** ve **Node.js** üzerine yoğunlaşıyor, roadmap.sh üzerinden ilerlememi kaydediyorum.
+* 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin çalışma mantığına temelden hakimim.
+* 💼 Şu an **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki ekip yönetimi ve kriz çözme becerilerimi yazılım dünyasındaki iş birlikçi çalışma kültürüne aktarıyorum.
+* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla desteklerken, gelecek hedeflerim arasında **freeCodeCamp** projeleriyle yetkinliğimi pekiştirmek yer alıyor.
 * 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
@@ -33,10 +33,6 @@
 **Backend & Araçlar:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Network](https://img.shields.io/badge/Cisco_Network_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 📊 GitHub İstatistiklerim
 
 ---
 
