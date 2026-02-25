@@ -54,6 +54,6 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&show_rank=true" alt="Berkay'ın İstatistikleri" height="195" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide_title=true" alt="En Çok Kullanılan Diller" height="195" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" alt="Berkay'ın İstatistikleri" height="195" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&langs_count=4" alt="En Çok Kullanılan Diller" height="195" />
 </p>
