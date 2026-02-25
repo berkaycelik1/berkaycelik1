@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Berkay Çelik! 👋</h1>
-<h3 align="center">Decathlon'da Spor lideri ve Kaptan 🏕️ | Geleceğin Full-Stack Geliştiricisi 💻</h3>
+<h3 align="center">Geleceğin Full-Stack Geliştiricisi 💻</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
@@ -53,7 +53,22 @@
 
 ### 📊 GitHub İstatistiklerim
 
+---
+
+### 🏆 Başarı Madalyalarım
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<img src="https://github-readme-trophies.vercel.app/?username=berkaycelik1&theme=tokyonight&no-frame=true&margin-w=15" alt="Berkay'ın Kupaları" />
+
+---
+
+### 📊 Yazılım Metrikleri
+
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues" alt="Berkay'ın İstatistikleri" height="195" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&langs_count=4" alt="En Çok Kullanılan Diller" height="195" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
 </p>
