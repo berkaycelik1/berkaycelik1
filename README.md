@@ -19,7 +19,7 @@
 
 * 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin çalışma mantığına temelden hakimim.
 * 💼 Şu an **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki ekip yönetimi ve kriz çözme becerilerimi yazılım dünyasındaki iş birlikçi çalışma kültürüne aktarıyorum.
-* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla desteklerken, gelecek hedeflerim arasında **freeCodeCamp** projeleriyle yetkinliğimi pekiştirmek yer alıyor.
+* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
 * 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
