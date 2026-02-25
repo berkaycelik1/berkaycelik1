@@ -55,25 +55,21 @@
 
 ---
 
-### 🏆 Başarı Madalyalarım
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<img src="https://github-readme-trophies.vercel.app/?username=berkaycelik1&theme=tokyonight&no-frame=true&margin-w=15" alt="Berkay'ın Kupaları" />
-
----
-
-### 📊 Yazılım Metrikleri
-
----
-
 ### 📊 Yazılım Metrikleri
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="150" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 </p>
 
+---
+
+### 🐍 Kodlama Serüvenim
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkaycelik1&theme=tokyonight&hide_border=true" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
