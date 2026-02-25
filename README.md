@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://roadmap.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Roadmap.sh-Full_Stack_Journey-blue?style=for-the-badge" alt="Roadmap" />
+    <img src="https://roadmap.sh/full-stack" alt="Roadmap" />
   </a>
 </p>
 
