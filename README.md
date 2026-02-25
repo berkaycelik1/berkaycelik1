@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Berkay Çelik! 👋</h1>
-<h3 align="center">Decathlon'da Kaptan 🏕️ | Geleceğin Full-Stack Geliştiricisi 💻</h3>
+<h3 align="center">Decathlon'da Spor lideri ve Kaptan 🏕️ | Geleceğin Full-Stack Geliştiricisi 💻</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
