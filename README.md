@@ -28,7 +28,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Araçlar:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,6 +51,6 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Berkay'ın İstatistikleri" width="48%" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" width="48%" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="Berkay'ın İstatistikleri" height="195" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="195" />
 </p>
