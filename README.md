@@ -2,15 +2,15 @@
 <h3 align="center">Full-Stack Yolculuğum 💻</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cberkay959@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
-    <img src="https://img.shields.io/badge/Roadmap.sh-İlerlemem-blue?style=for-the-badge" alt="Roadmap" />
-  </a>
+  <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cberkay959@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
+    <img src="https://img.shields.io/badge/Roadmap.sh-İlerlemem-blue?style=for-the-badge" alt="Roadmap" />
+  </a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 * 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin çalışma mantığına temelden hakimim.
 * 💼 Şu an **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki ekip yönetimi ve kriz çözme becerilerimi yazılım dünyasındaki iş birlikçi çalışma kültürüne aktarıyorum.
-* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **React.js**, **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
+* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **React.js**, **Node.js**, **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web technologies üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
 * 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
@@ -32,6 +32,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend & Araçlar:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -42,8 +43,8 @@
 ### 📊 Yazılım Metrikleri
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 </p>
 
 ---
@@ -51,9 +52,9 @@
 ### 🐍 Kodlama Serüvenim
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
