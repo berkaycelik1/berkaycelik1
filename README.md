@@ -19,42 +19,7 @@
 
 * 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin çalışma mantığına temelden hakimim.
 * 💼 Şu an **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki ekip yönetimi ve kriz çözme becerilerimi yazılım dünyasındaki iş birlikçi çalışma kültürüne aktarıyorum.
-* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **React.js**, **Node.js**, **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web technologies üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
+* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **React.js**, **Node.js**, **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
 * 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Araçlar:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Network](https://img.shields.io/badge/Cisco_Network_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-### 📊 Yazılım Metrikleri
-
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
-
----
-
-### 🐍 Kodlama Serüvenim
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/berkaycelik1/berkaycelik1/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+### 🛠️ Teknoloji Yığınım
