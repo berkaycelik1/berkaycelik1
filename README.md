@@ -48,7 +48,7 @@
   <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 </p>
-
+![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkaycelik1&show_icons=true&count_private=true&theme=tokyonight)
 ---
 
 ### 🐍 Kodlama Serüvenim
