@@ -1,15 +1,15 @@
 <h1 align="center">Merhaba, Ben Berkay Çelik! 👋</h1>
-<h3 align="center">Full-Stack Yolculuğum 💻</h3>
+<h3 align="center">Full-Stack Developer | Building Products with Next.js & Node.js 💻</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/berkay-çelik-31502326b" target="_blank">
+  <a href="https://berkaycelik.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-berkaycelik.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/berkay-celikk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:cberkay959@gmail.com">
+  <a href="mailto:berkaycelik1.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://roadmap.sh/full-stack?s=68f77a2617747caa5a611d10" target="_blank">
-    <img src="https://img.shields.io/badge/Roadmap.sh-İlerlemem-blue?style=for-the-badge" alt="Roadmap" />
   </a>
 </p>
 
@@ -17,38 +17,46 @@
 
 ### 👨‍💻 Hikayem ve Hedeflerim
 
-* 🎓 **Anadolu Üniversitesi**'nde Web Tasarım ve Kodlama okuyorum. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin çalışma mantığına temelden hakimim.
-* 💼 Şu an **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki ekip yönetimi ve kriz çözme becerilerimi yazılım dünyasındaki iş birlikçi çalışma kültürüne aktarıyorum.
-* 🌱 **Aktif Öğrenme Sürecim:** Kariyer yolumu **roadmap.sh** rehberliğinde şekillendiriyorum. Şu an **React.js**, **Node.js**, **Dave Gray** eğitimleri ve **Harvard CS50** ile bilgisayar bilimleri ve modern web teknolojileri üzerine yoğunlaşıyorum. Sürecimi **BTK Akademi** ve **Turkcell Geleceği Yazanlar** sertifika programlarıyla destekliyorum.
-* 🏕️ **Kod Yazmadığım Zamanlarda:** Lisanslı bir izciyim. Doğada kamp yapmayı, tırmanışı, balık tutmayı ve elektro gitar çalmayı seviyorum. Zihinsel ve fiziksel olarak sürekli aktif kalmak en büyük motivasyonum.
+* 🌐 **Kişisel Portföy:** Projelerime, mimari kararlarıma ve gelişim sürecime **[berkaycelik.dev](https://berkaycelik.dev)** adresinden ulaşabilirsiniz.
+* 🎓 **Eğitim:** **Anadolu Üniversitesi** Web Tasarım ve Kodlama öğrencisiyim. Lise dönemindeki **Ağ İşletmenliği (Cisco/Network)** altyapım sayesinde internetin ve ağ protokollerinin çalışma mantığına temelden hakimim.
+* 💼 **Saha & Liderlik Deneyimi:** **Decathlon'da Kaptan ve Spor Lideri** olarak görev yapıyorum. Sahadaki kriz yönetimi, iletişim ve ekip liderliği becerilerimi yazılım geliştirme süreçlerindeki iş birlikçi kültüre aktarıyorum.
+* 🌱 **Teknik Gelişim:** Modern web teknolojilerinde **Next.js**, **React**, **TypeScript**, **Node.js** ve **PostgreSQL** ekosistemine odaklanıyorum. **Harvard CS50** ile bilgisayar bilimleri temellerimi derinleştirirken, **BTK Akademi** ve **Turkcell Geleceği Yazanlar** programlarıyla pratiklerimi destekliyorum.
+* 🏕️ **Kod Dışı:** Lisanslı izciyim. Doğada kamp yapmak, tırmanış, balık tutmak ve elektro gitar çalmak zihinsel disiplinimi ve motivasyonumu yüksek tutmamı sağlıyor.
+
+---
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
 
-**Frontend:**
+**Frontend:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend:**
+**Backend & Veritabanı:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Araçlar & Diğer:**
+**Araçlar & Ağ:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Network](https://img.shields.io/badge/Cisco_Network_Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Cisco Network](https://img.shields.io/badge/Cisco_Network-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
 ### 📊 Yazılım Metrikleri
 
 <p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
 </p>
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkaycelik1&show_icons=true&count_private=true&theme=tokyonight)
+
 ---
 
 ### 🐍 Kodlama Serüvenim
