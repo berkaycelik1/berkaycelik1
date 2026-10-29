@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Building Products with Next.js, React & Node.js</h3>
 
 <p align="center">
-  <a href="https://berkaycelik.dev" target="_blank">
+  <a href="https://www.berkaycelik.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-berkaycelik.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/berkay-celikk" target="_blank">
@@ -26,7 +26,7 @@
   - Render geçici dosya sistemi (ephemeral disk) sorununu aşmak için Multer + Cloudinary CDN entegrasyonu ile kalıcı medya yönetimi.
   - Multipart form yüklemelerindeki veri tutarsızlıkları için Zod preprocess ve defansif veri normalizasyonu.
   - Vercel SPA rewrites ile derin bağlantılarda (deep-linking) 404 sorunsuz yönlendirme.
-- **Bağlantılar:** [Canlı Demo](https://blog-frontend-theta-six.vercel.app) • [Vaka Çalışması (Case Study)](https://berkaycelik.dev/projects/pulse) • [Portföy](https://berkaycelik.dev)
+- **Bağlantılar:** [Canlı Demo](https://blog-frontend-theta-six.vercel.app) • [Vaka Çalışması (Case Study)](https://www.berkaycelik.dev/tr/projects/pulse) • [Portföy](https://www.berkaycelik.dev)
 
 ---
 
@@ -62,14 +62,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-<!-- 📊 İstatistikler -->
-<p align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=berkaycelik1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=berkaycelik1&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-</p>
 
 ---
 
